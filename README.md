@@ -49,7 +49,7 @@ Install: `npm install --save @cliqz/adblocker-electron`.
 
 ## Getting Started - Castlabs Electron
 
-Install: `npm install --save @cliqz/adblocker-electron`.
+Install: `npm install "https://github.com/meforce/cliqz-adblocker-castlabs-electron.git#v1.22.7"`.
 
 ## Usage
 
