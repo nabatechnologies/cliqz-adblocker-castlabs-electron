@@ -34,7 +34,7 @@
     "test": "nyc mocha --config ../../.mocharc.js"
   },
   "peerDependencies": {
-    "electron": "github:castlabs/electron-releases#v11.5.0-wvvmp"
+    "electron": "*"
   },
   "dependencies": {
     "@cliqz/adblocker": "github:meforce/cliqz-adblocker-castlabs-electron#v1.22.7",
