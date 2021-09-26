@@ -37,8 +37,8 @@
     "electron": "github:castlabs/electron-releases#v11.5.0-wvvmp"
   },
   "dependencies": {
-    "@cliqz/adblocker": "^1.22.7",
-    "@cliqz/adblocker-electron-preload": "^1.22.7",
+    "@cliqz/adblocker": "github:meforce/cliqz-adblocker-castlabs-electron#v1.22.7",
+    "@cliqz/adblocker-electron-preload": "github:meforce/cliqz-adblocker-castlabs-electron-preload#v1.22.7",
     "tldts-experimental": "^5.6.21"
   },
   "devDependencies": {
